@@ -18,8 +18,8 @@ Since 2016 I spend most of my free time searching for and analyzing new promisin
 Discord | Telegram | Photoshop | Microsoft Word | Microsoft Exсel | Notepad++ | Airtable | Notion | Gitbook | Wordpress
 
 ### 🚩 LANGUAGES:
-- Russian: Native
-- English: Intermediate
+- **Russian:** Native
+- **English:** Intermediate
 
 ### 🔗 LINKS:
 - [Website](https://nfterrax.online/)
