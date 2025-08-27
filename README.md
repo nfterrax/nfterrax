@@ -36,9 +36,3 @@ decentralized ecosystems.
 ### 📫 CONTACT ME:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CONTACT+ME)](https://t.me/nfterrax)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=REQUEST+MY+CV)](mailto:hello@nfterrax.online)
-
-![Profile views](https://gpvc.arturio.dev/NFTerraX)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NFTerraX)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NFTerraX)  
