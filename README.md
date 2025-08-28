@@ -27,3 +27,6 @@ Details: https://nfterrax.online/experience/
 ### 📫 CONTACT ME:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CONTACT+ME)](https://t.me/nfterrax)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=REQUEST+MY+CV)](mailto:hello@nfterrax.online)
+
+<img width="1756" height="843" alt="image" src="https://github.com/user-attachments/assets/44845c0e-40c4-42ab-a637-398d147a21e5" />
+
