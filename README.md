@@ -7,7 +7,7 @@
 ### 🙋‍♂️ ABOUT ME:
 Dynamic and results-driven Community and Support Specialist with a strong background in the Web3 industry. Proven expertise in building, managing, and moderating highly engaged communities across platforms such as Discord, Telegram, and X (Twitter). Skilled in fostering meaningful interactions and mediating between developers, team members, and end-users, with a dedicated focus on conflict resolution, maintaining a positive environment, and delivering exceptional support to resolve issues and enhance user satisfaction. Passionate about blockchain and the future of decentralized technologies.
 
-### 💼 EXPERIENCE
+### 💼 EXPERIENCE:
 Details: https://nfterrax.online/experience/
 
 ### 🗒️ SKILLS:
