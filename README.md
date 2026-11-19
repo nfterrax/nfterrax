@@ -8,41 +8,37 @@
 
 
 ### 🙋‍♂️ ABOUT ME:
-4+ years in Web3 community operations across 15 projects, including Mantle, xStocks, Daylight, Space and Time, and Exorde. I moderate and support communities on Discord, Telegram, and X, including communities of 400K+ members, run ambassador programs and quest campaigns, and work in English and Russian.
-- **Community management:** Discord and Telegram setup and administration, content, ambassador programs, quest campaigns, events, EN/RU localization
-- **User support:** onboarding, help in public channels, tickets
-- **Moderation:** conflict resolution, anti-scam and anti-spam enforcement
+I help Web3 teams keep Discord, Telegram, and X communities structured, safe, and easy to navigate.
+- **Community Management:** Building and maintaining structured Discord and Telegram spaces—server architecture, role systems, guidelines, content coordination, community events, ambassador programs, and quest campaigns across EN/RU audiences.
+- **Moderation:** Keeping large Web3 communities safe and calm through active anti-scam and anti-phishing defense, raid/spam prevention, rule enforcement, and fair conflict resolution.
+- **User Support:** Helping newcomers onboard smoothly, answering product and ecosystem questions in public channels, handling support tickets, and turning recurring user pain points into clear feedback for the team.
 
 
-### 💼 EXPERIENCE:
-### Selected experience
+### 💼 Portfolio & Full Background
 
-| Project | Role | Period |
-|---|---|---|
-| Mantle ecosystem (Mantle, mETH Protocol, Function (FBTC), BitDAO) | Community Steward | 12/2022 – 09/2026 |
-| Exorde | Community Manager | 03/2022 – 05/2024 |
-| Space and Time | Community Moderator | 09/2022 – 07/2025 |
-| Daylight | Community Moderator | 12/2025 – 04/2026 |
-| xStocks | Community Helper | 06/2026 – present |
+For my full 4+ year track record across 15 Web3 projects, detailed roles, and resume:
+- **Website:** [nfterrax.online](https://nfterrax.online)
+- **Experience:** [nfterrax.online/experience](https://nfterrax.online/experience/)
+- **CV:** [Download PDF](cv/Kirill_NFTerraX_Resume.pdf)
 
 The full list of 15 projects: [nfterrax.online/experience](https://nfterrax.online/experience/)
-
-
-### 🗒️ SKILLS:
-
-
-### 🚩 LANGUAGES:
-- **Russian:** Native
-- **English:** Upper-Intermediate
-
-### 🔗 [Website](https://nfterrax.online/)
 
 ### Working together
 
 Remote, UTC+3. Preferred shift Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM UTC+3), and I can adjust if needed.
 
+### 📫Connect
+
+[Telegram](https://t.me/nfterrax) · [X](https://x.com/nfterrax) · [LinkedIn](https://www.linkedin.com/in/nfterrax) · [Email](mailto:hello@nfterrax.online)
+
+
+
+### 🔗 [Website](https://nfterrax.online/)
+
+
+
 ### 📫 CONTACT ME:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CONTACT+ME)](https://t.me/nfterrax)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📫CONNECT)]
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=REQUEST+MY+CV)](mailto:hello@nfterrax.online)
 
 <p align="center">
