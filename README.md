@@ -1,8 +1,6 @@
-<h3 align="center">Hi, I'm</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/nfterrax">
-    <img src="https://readme-typing-svg.herokuapp.com?weight=700&size=38&pause=2000&color=36BCF7&center=true&vCenter=true&width=420&height=50&lines=Kirill+NFTerraX+%F0%9F%91%8B" alt="Kirill NFTerraX" />
+    <img src="https://readme-typing-svg.herokuapp.com?weight=700&size=38&pause=2000&color=36BCF7&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Kirill+NFTerraX+%F0%9F%91%8B" alt="Hi, I'm Kirill NFTerraX" />
   </a>
 </p>
 
