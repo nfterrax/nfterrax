@@ -1,14 +1,11 @@
-<div align="center">
-  <a href="https://linkedin.com/in/nfterrax">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&lines=Hi,+I%27m+Kirill+NFTerraX+%F0%9F%91%8B" alt="Typing SVG" height="40" />
-  </a>
-</div>
+<h1 align="center">
+  Hi, I'm <a href="https://linkedin.com/in/nfterrax">Kirill NFTerraX</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" alt="👋" />
+</h1>
 
-<div align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
-</div>
-
-<h3 align="center">Web3 Community Operations Specialist</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=520&height=40&lines=Web3+Community+Operations+Specialist;Community+Management+%C2%B7+Moderation+%C2%B7+Support" alt="Web3 Community Operations Specialist" />
+</p>
 
 <p align="center">
   <i>From the first question to the biggest launch:<br>
