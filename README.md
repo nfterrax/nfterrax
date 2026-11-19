@@ -11,7 +11,7 @@
   Hands-on management, calm moderation, and support without the runaround.</i>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2500&pause=500&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=100&lines=Web3+Community+Operations+Specialist;From+the+first+question+to+the+biggest+launch%3A;Hands-on+management%2C+calm+moderation%2C+and+support+without+the+runaround." alt="Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2500&pause=500&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=100&lines=Web3+Community+Operations+Specialist;From+the+first+question+to+the+biggest+launch%3A;Hands-on+management%2C+calm+moderation%2C+and+support+without+the+runaround." alt="Tagline" />
 </p>
 ### 🙋‍♂️ ABOUT ME
 
