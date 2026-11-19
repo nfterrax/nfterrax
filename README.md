@@ -49,5 +49,5 @@ Remote, UTC+3. Preferred shift: Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM
 ---
 
 <p align="center">
-
+<img width="800" height="450" alt="animation-auto-1795088341676" src="https://github.com/user-attachments/assets/2eca9d7c-9f3e-4707-9366-8ae2127b78dd" />
 </p>
