@@ -1,13 +1,14 @@
 <p align="center">
   <a href="https://linkedin.com/in/nfterrax">
-    <img src="https://readme-typing-svg.herokuapp.com?weight=700&size=38&pause=2000&color=36BCF7&center=true&vCenter=true&repeat=false&width=650&height=60&lines=Hi%2C+I%27m+Kirill+NFTerraX+%F0%9F%91%8B" alt="Hi, I'm Kirill NFTerraX" />
+    <img src="https://readme-typing-svg.herokuapp.com?weight=700&size=38&pause=2000&color=36BCF7&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Kirill+NFTerraX+%F0%9F%91%8B" alt="Hi, I'm Kirill NFTerraX" />
   </a>
 </p>
 
+<h3 align="center">Web3 Community Operations Specialist</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=1000&color=00B4FF&center=true&vCenter=true&repeat=false&width=680&height=36&lines=Web3+Community+Operations+Specialist" alt="Web3 Community Operations Specialist" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=15&duration=2500&pause=500&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=65&lines=From+the+first+question+to+the+biggest+launch%3A;Hands-on+management%2C+calm+moderation%2C+and+support+without+the+runaround." alt="Tagline" />
+  <i>From the first question to the biggest launch:<br>
+  Hands-on management, calm moderation, and support without the runaround.</i>
 </p>
 
 ### 🙋‍♂️ ABOUT ME
