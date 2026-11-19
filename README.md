@@ -4,7 +4,11 @@
   </a>
 </p>
 
+---
+
 <h3 align="center">Web3 Community Operations Specialist</h3>
+
+---
 
 <p align="center">
   <i>From the first question to the biggest launch:<br>
@@ -21,6 +25,8 @@ I help Web3 teams keep Discord, Telegram, and X communities structured, safe, an
 - **Moderation:** Keeping large Web3 communities safe and calm through active anti-scam and anti-phishing defense, raid/spam prevention, rule enforcement, and fair conflict resolution.
 - **User Support:** Helping newcomers onboard smoothly, answering product and ecosystem questions in public channels, handling support tickets, and turning recurring user pain points into clear feedback for the team.
 
+---
+
 ### 💼 PORTFOLIO & FULL BACKGROUND
 
 For my full 4+ year track record across 15 Web3 projects, detailed roles, and resume:
@@ -28,9 +34,13 @@ For my full 4+ year track record across 15 Web3 projects, detailed roles, and re
 - **Experience:** [nfterrax.online/experience](https://nfterrax.online/experience/)
 - **CV:** [Request my CV](mailto:hello@nfterrax.online)
 
+---
+
 ### 🤝 WORKING TOGETHER
 
 Remote, UTC+3. Preferred shift: Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM UTC+3), though I can adjust if needed.
+
+---
 
 ### 📫 CONNECT
 
