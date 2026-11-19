@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&lines=Hi,+I%27m+" alt="Hi, I'm" height="40" /><a href="https://linkedin.com/in/nfterrax"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&lines=Kirill+NFTerraX+%F0%9F%91%8B" alt="Kirill NFTerraX" height="40" /></a>
+  <a href="https://linkedin.com/in/nfterrax">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&lines=Hi,+I%27m+Kirill+NFTerraX+%F0%9F%91%8B" alt="Typing SVG" height="40" />
+  </a>
 </div>
 
 <div align="center">
