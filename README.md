@@ -40,15 +40,6 @@ Remote, UTC+3. Preferred shift Monday to Friday, 05:00-13:00 UTC (8 AM-4 PM UTC+
 [Email](mailto:hello@nfterrax.online)
 
 
-
-
-
-
-### 📫 CONTACT ME:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📫CONNECT)]
-
-
-
 <p align="center">
 <img width="800" height="450" alt="animation-auto-1795088341676" src="https://github.com/user-attachments/assets/3a2c9827-700f-4b56-9358-e5fc44ac466b" />
 </p>
