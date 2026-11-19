@@ -10,9 +10,17 @@
   <i>From the first question to the biggest launch:<br>
   Hands-on management, calm moderation, and support without the runaround.</i>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2500&pause=500&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=100&lines=Web3+Community+Operations+Specialist;From+the+first+question+to+the+biggest+launch%3A;Hands-on+management%2C+calm+moderation%2C+and+support+without+the+runaround." alt="Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2500&pause=500&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=Web3+Community+Operations+Specialist;From+the+first+question+to+the+biggest+launch%3A;Hands-on+management%2C+calm+moderation%2C+and+support+without+the+runaround." alt="Tagline" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=1000&color=00B4FF&center=true&vCenter=true&repeat=true&width=680&height=36&lines=Web3+Community+Operations+Specialist" alt="Web3 Community Operations Specialist" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=15&duration=2500&pause=500&color=00B4FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=65&lines=From+the+first+question+to+the+biggest+launch%3A;Hands-on+management%2C+calm+moderation%2C+and+support+without+the+runaround." alt="Tagline" />
+</p>
+
 ### 🙋‍♂️ ABOUT ME
 
 I help Web3 teams keep Discord, Telegram, and X communities structured, safe, and easy to navigate.
