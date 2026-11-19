@@ -1,51 +1,32 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="NFTerraX: Web3 Community Operations Specialist">
-</p>
+<h1 align="center">Hello. I'm <a href="https://linkedin.com/in/nfterrax" target="_blank">Kirill NFTerraX</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Crypto-Enthusiast :moneybag:</h3>
+<h3 align="center">Web3 Community Manager | Web3 Community Moderator | Web3 Customer Support Specialist 🌐</h3>
 
-<h1 align="center">Kirill · NFTerraX</h1>
 
-<p align="center">
-  <b>Web3 Community Ops · Moderation & Security · Python Automation</b><br>
-  Keeping large crypto communities safe, structured, and actually helpful.
-</p>
+### 🙋‍♂️ ABOUT ME:
+Dynamic and results-driven Community and Support Specialist with a strong background in the Web3 industry. Proven expertise in building, managing, and moderating highly engaged communities across platforms such as Discord, Telegram, and X (Twitter). Skilled in fostering meaningful interactions and mediating between developers, team members, and end-users, with a dedicated focus on conflict resolution, maintaining a positive environment, and delivering exceptional support to resolve issues and enhance user satisfaction. Passionate about blockchain and the future of decentralized technologies.
 
-<p align="center">
-  <a href="https://nfterrax.online">Website</a> ·
-  <a href="https://nfterrax.online/experience/">Full Experience</a> ·
-  <a href="cv/Kirill_NFTerraX_Resume.pdf">CV (PDF)</a> ·
-  <a href="https://www.linkedin.com/in/nfterrax">LinkedIn</a> ·
-  <a href="https://x.com/nfterrax">X</a> ·
-  <a href="https://t.me/nfterrax">Telegram</a>
-</p>
+### 💼 EXPERIENCE:
+Details: https://nfterrax.online/experience/
 
----
+### 🗒️ SKILLS:
+- Community & Social Media Management, Moderation (Discord, Telegram, X, Reddit, LinkedIn, Facebook, Forums)
+- Customer Support & User Success (Zendesk, LiveChat, MetaCRM, Discord Tickets)
+- Multilingual Communication: English, Russian
+- User Engagement & Growth Hacking (Ambassador programs, Giveaways, Raffles, Contests, Quest Platforms)
+- Feedback Collection & Synthesis (Ideas in, Innovation out)
+- Brand Messaging & Tone of Voice Development (Meme Culture, Viral Hooks, Signature Style)
 
-### What I focus on
+### 🚩 LANGUAGES:
+- **Russian:** Native
+- **English:** Fluent
 
-I work on the operational side of Web3 communities across Discord, Telegram, and X—from server architecture and anti-scam defense to daily user support and campaign ops. Over 4+ years across 15 ecosystems (including 400K+ member servers), I’ve focused on building calm, scam-free spaces where users get clear answers fast.
+### 🔗 [Website](https://nfterrax.online/)
 
-- **Server ops & security:** Discord/Telegram architecture, role systems, raid & phishing defense, conflict de-escalation
-- **Support workflows:** public troubleshooting, ticket pipelines, onboarding flows, EN/RU localization
-- **Community growth:** ambassador programs, quest campaigns, and community events
-- **Automation:** lightweight Python bots and scripts to reduce manual mod/ops routine
+### 📫 CONTACT ME:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CONTACT+ME)](https://t.me/nfterrax)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=REQUEST+MY+CV)](mailto:hello@nfterrax.online)
 
-### Ecosystems I’ve worked with
+<img width="1756" height="843" alt="image" src="https://github.com/user-attachments/assets/44845c0e-40c4-42ab-a637-398d147a21e5" />
 
-- **Current:** xStocks *(Community Helper)*
-- **Previously:** Mantle ecosystem (Mantle, mETH Protocol, Function/FBTC, BitDAO), Daylight, Space and Time, Exorde — plus 10+ other projects across L2s, DeFi, BTCFi, RWA, liquid staking, AI/data, and DAOs.
-
-> Full timeline and role breakdown → [nfterrax.online/experience](https://nfterrax.online/experience/)
-
-### Ops & Tech Stack
-
-- **Automation:** Python (custom moderation & ops bots)
-- **Security & Mod Bots:** AutoMod, Wick, Good Knight, Pandez Guard, Captcha.bot, Carl-bot, YAGPDB, Dyno, MEE6, Combot, Rose
-- **Support & Docs:** MetaCRM, Ticket Tool, Zendesk, LiveChat, Notion, Google Workspace
-- **Quests & Gating:** Guild, Zealy, Galxe, Layer3
-
-### Reach out
-
-Based in **UTC+3** (typically online Mon–Fri, 05:00–13:00 UTC, flexible when needed). Working in **EN (B2)** and **RU (native)**.
-
-- Telegram: [@nfterrax](https://t.me/nfterrax)
-- Email: [hello@nfterrax.online](mailto:hello@nfterrax.online)
