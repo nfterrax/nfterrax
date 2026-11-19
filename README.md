@@ -1,10 +1,13 @@
-<h1 align="center">
-  <a href="https://linkedin.com/in/nfterrax">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I%27m+Kirill+NFTerraX" alt="Typing SVG" />
-  </a>
-</h1>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&lines=Hi,+I%27m+" alt="Hi, I'm" height="40" /><a href="https://linkedin.com/in/nfterrax"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&lines=Kirill+NFTerraX+%F0%9F%91%8B" alt="Kirill NFTerraX" height="40" /></a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</div>
+
 <h3 align="center">Web3 Community Operations Specialist</h3>
+
 <p align="center">
   <i>From the first question to the biggest launch:<br>
   Hands-on management, calm moderation, and support without the runaround.</i>
@@ -26,12 +29,12 @@ For my full 4+ year track record across 15 Web3 projects, detailed roles, and re
 - **CV:** [Request my CV](mailto:hello@nfterrax.online)
 
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🤝+WORKING+TOGETHER)](mailto:hello@nfterrax.online)
+### 🤝WORKING TOGETHER
 
 Remote, UTC+3. Preferred shift Monday to Friday, 05:00-13:00 UTC (8 AM-4 PM UTC+3), but I can adjust if needed.
 
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📫+CONNECT)](https://nfterrax.online/#contact)
+### 📫 CONNECT
 
 [Telegram](https://t.me/nfterrax) · [X](https://x.com/nfterrax) · [LinkedIn](https://www.linkedin.com/in/nfterrax) · [Email](mailto:hello@nfterrax.online)
 
