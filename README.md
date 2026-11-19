@@ -1,11 +1,12 @@
-<h1 align="center">
-  Hi, I'm <a href="https://linkedin.com/in/nfterrax">Kirill NFTerraX</a>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" alt="👋" />
-</h1>
+<h3 align="center">Hi, I'm</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?weight=600&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=520&height=35&lines=Web3+Community+Operations+Specialist" alt="Web3 Community Operations Specialist" />
+  <a href="https://linkedin.com/in/nfterrax">
+    <img src="https://readme-typing-svg.herokuapp.com?weight=700&size=38&pause=2000&color=36BCF7&center=true&vCenter=true&width=420&height=50&lines=Kirill+NFTerraX+%F0%9F%91%8B" alt="Kirill NFTerraX" />
+  </a>
 </p>
+
+<h3 align="center">Web3 Community Operations Specialist</h3>
 
 <p align="center">
   <i>From the first question to the biggest launch:<br>
