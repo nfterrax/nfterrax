@@ -19,11 +19,10 @@ I help Web3 teams keep Discord, Telegram, and X communities structured, safe, an
 For my full 4+ year track record across 15 Web3 projects, detailed roles, and resume:
 - **Website:** [nfterrax.online](https://nfterrax.online)
 - **Experience:** [nfterrax.online/experience](https://nfterrax.online/experience/)
-- **CV:** [Download PDF](cv/Kirill_NFTerraX_Resume.pdf)
+- **CV:** [Request my CV](mailto:hello@nfterrax.online)
 
-The full list of 15 projects: [nfterrax.online/experience](https://nfterrax.online/experience/)
 
-### Working together
+### 🤝 Working together
 
 Remote, UTC+3. Preferred shift Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM UTC+3), and I can adjust if needed.
 
@@ -39,7 +38,7 @@ Remote, UTC+3. Preferred shift Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM 
 
 ### 📫 CONTACT ME:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📫CONNECT)]
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=REQUEST+MY+CV)](mailto:hello@nfterrax.online)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=REQUEST+MY+CV)]()
 
 <p align="center">
   <a href="https://nfterrax.online">Portfolio</a> ·
