@@ -11,13 +11,13 @@
   Hands-on management, calm moderation, and support without the runaround.</i>
 </p>
 
+### 🙋‍♂️ ABOUT ME
 
-### 🙋‍♂️ ABOUT ME:
 I help Web3 teams keep Discord, Telegram, and X communities structured, safe, and easy to navigate.
+
 - **Community Management:** Building and maintaining structured Discord and Telegram spaces—server architecture, role systems, guidelines, content coordination, community events, ambassador programs, and quest campaigns across EN/RU audiences.
 - **Moderation:** Keeping large Web3 communities safe and calm through active anti-scam and anti-phishing defense, raid/spam prevention, rule enforcement, and fair conflict resolution.
 - **User Support:** Helping newcomers onboard smoothly, answering product and ecosystem questions in public channels, handling support tickets, and turning recurring user pain points into clear feedback for the team.
-
 
 ### 💼 PORTFOLIO & FULL BACKGROUND
 
@@ -26,20 +26,16 @@ For my full 4+ year track record across 15 Web3 projects, detailed roles, and re
 - **Experience:** [nfterrax.online/experience](https://nfterrax.online/experience/)
 - **CV:** [Request my CV](mailto:hello@nfterrax.online)
 
+### 🤝 WORKING TOGETHER
 
-### 🤝WORKING TOGETHER
-
-Remote, UTC+3. Preferred shift Monday to Friday, 05:00-13:00 UTC (8 AM-4 PM UTC+3), but I can adjust if needed.
-
+Remote, UTC+3. Preferred shift: Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM UTC+3), though I can adjust if needed.
 
 ### 📫 CONNECT
 
-[Telegram](https://t.me/nfterrax)
-[X](https://x.com/nfterrax)
-[LinkedIn](https://www.linkedin.com/in/nfterrax)
-[Email](mailto:hello@nfterrax.online)
+[Telegram](https://t.me/nfterrax) · [X](https://x.com/nfterrax) · [LinkedIn](https://www.linkedin.com/in/nfterrax) · [Email](mailto:hello@nfterrax.online)
 
+---
 
 <p align="center">
-<img width="800" height="450" alt="animation-auto-1795088341676" src="https://github.com/user-attachments/assets/635b3aba-9dc6-4791-91f7-77122422e84c" />
+  <img src="assets/footer.gif" width="800" alt="NFTerraX Community" />
 </p>
