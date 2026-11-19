@@ -93,7 +93,8 @@ Remote, UTC+3. Preferred shift Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM 
 📩 [hello@nfterrax.online](mailto:hello@nfterrax.online) · [t.me/nfterrax](https://t.me/nfterrax)
 
 
-<img width="800" height="450" alt="animation_auto" src="https://github.com/user-attachments/assets/221a94db-50e9-423a-9bc8-66f44b609dba" />
+![Uploading animation-auto-1795088341676.gif…]()
+
 
 
 
