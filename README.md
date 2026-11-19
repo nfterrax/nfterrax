@@ -37,5 +37,5 @@ Remote, UTC+3. Preferred shift: Monday to Friday, 05:00–13:00 UTC (8 AM–4 PM
 ---
 
 <p align="center">
-<img src="assets/footer.gif" width="800" alt="NFTerraX Community" />
+<img width="800" height="450" alt="animation-auto-1795088341676" src="https://github.com/user-attachments/assets/603bf8da-a410-4c25-9ae7-faf2214a2649" />
 </p>
