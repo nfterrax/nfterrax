@@ -19,7 +19,7 @@ I help Web3 teams keep Discord, Telegram, and X communities structured, safe, an
 - **User Support:** Helping newcomers onboard smoothly, answering product and ecosystem questions in public channels, handling support tickets, and turning recurring user pain points into clear feedback for the team.
 
 
-### 💼 Portfolio & Full Background
+### 💼 PORTFOLIO & FULL BACKGROUND
 
 For my full 4+ year track record across 15 Web3 projects, detailed roles, and resume:
 - **Website:** [nfterrax.online](https://nfterrax.online)
@@ -34,7 +34,10 @@ Remote, UTC+3. Preferred shift Monday to Friday, 05:00-13:00 UTC (8 AM-4 PM UTC+
 
 ### 📫 CONNECT
 
-[Telegram](https://t.me/nfterrax) · [X](https://x.com/nfterrax) · [LinkedIn](https://www.linkedin.com/in/nfterrax) · [Email](mailto:hello@nfterrax.online)
+[Telegram](https://t.me/nfterrax)
+[X](https://x.com/nfterrax)
+[LinkedIn](https://www.linkedin.com/in/nfterrax)
+[Email](mailto:hello@nfterrax.online)
 
 
 
