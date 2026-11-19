@@ -27,7 +27,7 @@ For my full 4+ year track record across 15 Web3 projects, detailed roles, and re
 Remote, UTC+3. Preferred shift Monday to Friday, 05:00-13:00 UTC (8 AM-4 PM UTC+3), but I can adjust if needed.
 
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📫 CONNECT)](https://nfterrax.online/#contact)]
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📫+CONNECT)](https://nfterrax.online/#contact)
 
 [Telegram](https://t.me/nfterrax) · [X](https://x.com/nfterrax) · [LinkedIn](https://www.linkedin.com/in/nfterrax) · [Email](mailto:hello@nfterrax.online)
 
