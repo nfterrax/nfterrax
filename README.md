@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://linkedin.com/in/nfterrax" target="_blank">Kirill NFTerraX</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web3 Community Operations Specialist</h3>
+<h2 align="center">Web3 Community Operations Specialist</h2>
 <h3 align="center">Web3 Community Manager | Web3 Community Moderator | Web3 Customer Support Specialist 🌐</h3>
 <p align="center">
   <i>Between a product and the people who use it: someone who listens, explains, and keeps things running.<br>
