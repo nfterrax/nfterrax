@@ -1,4 +1,3 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Kirill+NFTerraX)](https://linkedin.com/in/nfterrax) </a> 
 <h1 align="center">
   <a href="https://linkedin.com/in/nfterrax">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I%27m+Kirill+NFTerraX" alt="Typing SVG" />
