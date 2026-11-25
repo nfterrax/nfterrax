@@ -21,9 +21,9 @@
 
 I help Web3 teams keep Discord, Telegram, and X communities structured, safe, and easy to navigate.
 
-- **Community Management:** Building and maintaining structured Discord and Telegram spaces-server architecture, role systems, guidelines, content coordination, community events, ambassador programs, and quest campaigns across EN/RU audiences.
-- **Moderation:** Keeping large Web3 communities safe and calm through active anti-scam and anti-phishing defense, raid/spam prevention, rule enforcement, and fair conflict resolution.
-- **User Support:** Helping newcomers onboard smoothly, answering product and ecosystem questions in public channels, handling support tickets, and turning recurring user pain points into clear feedback for the team.
+- **Community Management:** Structuring Discord & Telegram servers, roles, and guidelines; running events, ambassador programs, and quest campaigns.
+- **Moderation:** Keeping large Web3 chats safe and calm via scam and phishing defense, raid/spam control, and fair conflict resolution.
+- **User Support:** Onboarding newcomers, answering product questions in public channels and tickets, and turning recurring issues into FAQs and team feedback.
 
 ---
 
